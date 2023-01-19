@@ -3,7 +3,7 @@ Minimalistic sand simulator that i did for fun as a weekend project.<br>
 Program draws an ascii-2d map in the standard output and starts filling it with sand with two funnels.<br>
 Later sand flow stops and a water funnel fills the rest of the screen with water which stays afloat on top of the sand.<br>
 Usage: give the the program the desired width a height as arguments.<br>
-The position, feed rate and timing of the funnels is hardcoded in.<br>
+The position, feed rate and timing of the funnels are hardcoded in.<br>
 
     ........................................
     .....................~..................
